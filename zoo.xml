@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zoo>
+ <mamiferos>
+ <animal>Gato</animal>
+ <animal>Perro</animal>
+ </mamiferos>
+ <reptiles>
+ <animal>Boa</animal>
+ <animal>Lagarto</animal>
+ </reptiles>
+ <aves>
+ <animal>Aguila</animal>
+ <animal>Buitre</animal>
+ </aves>
+</zoo>
